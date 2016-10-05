@@ -1,3 +1,3 @@
-# Push Notifications
+# UI Starter - Store Catalog
 
-Learn more about our Push Notifications service.
+Choose the Store Catalog UI Starter to create your project. You can review store products on sale, including store stock and contact sections.

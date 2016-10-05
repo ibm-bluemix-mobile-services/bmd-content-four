@@ -1,12 +1,12 @@
 {
 	"action" : {
 		"type": "url",
-		"text" : "Push Notifications",
-		"link": "../../docs/services/mobilepush/index.html",
-		"description" : "Push Notifications",
+		"text" : "UI Starter - Store Catalog",
+		"link": "../../docs/mobile/tutorial_store_catalog.html",
+		"description" : "Use the Store Catalog UI Starter to create your project",
 		"newTab" : true,
-		"altText" : "Push Notifications"
+		"altText" : "UI Starter - Store Catalog"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/push.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/push.svg"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/store_catalog.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/store_catalog.svg"
 }
