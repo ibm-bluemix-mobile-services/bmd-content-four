@@ -10,7 +10,7 @@
 	"alternateAction" : {
 		"type" : "url",
 		"text" : "GET STARTED",
-		"link" : "../create-project?starter=fb5e31a9-1186-4d46-939e-2f620f35b83b",
+		"link" : "../create-project?starter=c9d6e253-d123-4d13-8c93-219cce31122a",
 		"description" : "UI Starter - Store Catalog",
 		"newTab" : false,
 		"altText" : "GET STARTED"
