@@ -1,12 +1,20 @@
 {
 	"action" : {
-		"type": "url",
-		"text" : "UI Starter - Store Catalog",
-		"link": "../create-project",
-		"description" : "Use the Store Catalog UI Starter to create your project",
-		"newTab" : false,
-		"altText" : "UI Starter - Store Catalog"
+		"type" : "url",
+		"text" : "Code Starter - Watson Conversation",
+		"link" : "../../docs/mobile/tutorial_conversation.html",
+		"description" : "Use the Watson Conversation Code Starter to create your project",
+		"newTab" : true,
+		"altText" : "Code Starter - Watson Conversation"
 	},
-	"image" : "https://rawgit.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg",
-	"icon" : "https://rawgit.com/ibm-bluemix-mobile-services/bmd-content-four/master/store_catalog.svg"
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "GET STARTED",
+		"link" : "../create-project?starter=71e4eb62-0422-3dbf-a45b-163ec966b2c0",
+		"description" : "Code Starter - Watson Conversation",
+		"newTab" : false,
+		"altText" : "GET STARTED"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg"
 }
