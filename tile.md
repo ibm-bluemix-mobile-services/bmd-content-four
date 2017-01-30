@@ -1,3 +1,3 @@
-# UI Starter - Store Catalog
+# Code Starter - Watson Conversation
 
-Choose the Store Catalog UI Starter to create your project. You can review store products on sale, including store stock and contact sections.
+Choose the Watson Conversation Code Starter to create your project. You can automate a conversation with the power of Watson.
