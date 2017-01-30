@@ -1,7 +1,7 @@
 {
 	"action" : {
 		"type" : "url",
-		"text" : "Code Starter - Watson Conversation",
+    "text" : "Code Starter - Watson Conversation",
 		"link" : "../../docs/mobile/tutorial_conversation.html",
 		"description" : "Use the Watson Conversation Code Starter to create your project",
 		"newTab" : true,
