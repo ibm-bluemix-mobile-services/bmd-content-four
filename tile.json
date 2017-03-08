@@ -16,5 +16,6 @@
 		"altText" : "GET STARTED"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg"
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg",
+	"tag" : "Dev Tool"
 }
