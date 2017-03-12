@@ -10,7 +10,7 @@
 	"alternateAction" : {
 		"type" : "url",
 		"text" : "Get Started",
-		"link" : "../create-project",
+		"link" : "../create-project/?pattern=MOBILE",
 		"description" : "Get Started",
 		"newTab" : false,
 		"altText" : "Get Started"
