@@ -2,7 +2,7 @@
 	"action" : {
 		"type" : "url",
     	"text" : "Learn More",
-		"link" : "../../docs/cloudnative/sdk_compute.html",
+		"link" : "../../docs/cloudnative/patterns.html#mobile",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
