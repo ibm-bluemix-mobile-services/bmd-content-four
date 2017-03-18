@@ -1,3 +1,3 @@
-# Code Starter - Watson Conversation
+# Mobile App with Backend Services
 
-Choose the Watson Conversation Code Starter to create your project. You can automate a conversation with the power of Watson.
+Quickly build a mobile app that connects directly to backend services for authentication, push notifications, analytics, serverless actions, Watson, and more.

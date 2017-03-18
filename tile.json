@@ -1,20 +1,21 @@
 {
 	"action" : {
 		"type" : "url",
-    "text" : "Code Starter - Watson Conversation",
-		"link" : "../../docs/mobile/tutorial_conversation.html",
-		"description" : "Use the Watson Conversation Code Starter to create your project",
+    	"text" : "Learn More",
+		"link" : "https://www.ibm.com/blogs/bluemix/2017/03/bluemix-developer-console-mobile-pattern/",
+		"description" : "Learn More",
 		"newTab" : true,
-		"altText" : "Code Starter - Watson Conversation"
+		"altText" : "Learn More"
 	},
 	"alternateAction" : {
 		"type" : "url",
-		"text" : "GET STARTED",
-		"link" : "../create-project?starter=71e4eb62-0422-3dbf-a45b-163ec966b2c0",
-		"description" : "Code Starter - Watson Conversation",
+		"text" : "Get Started",
+		"link" : "../create-project/?pattern=MOBILE",
+		"description" : "Get Started",
 		"newTab" : false,
-		"altText" : "GET STARTED"
+		"altText" : "Get Started"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-four/conversation.svg"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-03.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-one/Subheros-03.svg",
+	"tag" : "App Pattern"
 }
